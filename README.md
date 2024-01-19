@@ -7,19 +7,24 @@ I'm an experienced software developer specializing in Java and React, with a foc
 - LinkedIn: [partha-debnath-065b15159](https://www.linkedin.com/in/partha-debnath-065b15159/)
 
 ## 💻 Skills:
-- Next.js
-- React
-- Spring Boot
+[![My Skills](https://skillicons.dev/icons?i=java,spring,nextjs,git,react,ts,html,css,js,jest,graphql,mongodb,postgres,nodejs,docker&perline=5
+)](https://skillicons.dev)
+
 - Java
-- JavaScript
-- TypeScript
-- HTML5
-- CSS
+- Spring Boot
+- Next.js
 - Git
+- React
+- TypeScript (ts)
+- HTML5 (html)
+- CSS
+- JavaScript (js)
+- Jest
 - GraphQL
-- Docker
-- PostgreSQL
 - MongoDB
+- PostgreSQL
+- Node.js (nodejs)
+- Docker
 
 ## 🌐 Languages:
 - English
