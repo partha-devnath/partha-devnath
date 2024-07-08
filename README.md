@@ -3,7 +3,7 @@
 I'm an experienced software developer specializing in Java and React, with a focus on clean code and microservices architecture. I'm patient and adaptable to implementing major changes.
 
 ## 📫 How to reach me:
-- Email: partha16896@gmail.com
+- Email: partha10996@gmail.com
 - LinkedIn: [partha-debnath-065b15159](https://www.linkedin.com/in/partha-debnath-065b15159/)
 
 ## 💻 Skills:
