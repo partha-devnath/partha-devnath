@@ -4,7 +4,7 @@ I'm an experienced software developer specializing in Java and React, with a foc
 
 ## 📫 How to reach me:
 - Email: partha10996@gmail.com
-- LinkedIn: [partha-debnath-065b15159](https://www.linkedin.com/in/partha-debnath-065b15159/)
+- LinkedIn: [partha-debnath-065b15159](www.linkedin.com/in/partha-devnath)
 
 ## 💻 Skills:
 [![My Skills](https://skillicons.dev/icons?i=java,spring,nextjs,git,react,ts,html,css,js,jest,graphql,mongodb,postgres,nodejs,docker&perline=5
